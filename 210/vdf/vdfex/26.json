@@ -9,6 +9,14 @@
 },
 {
 "trigger":{
+"url-filter":".*"
+},
+"action":{
+"type":"block"
+}
+},
+{
+"trigger":{
 "url-filter":"/adb_script/"
 },
 "action":{
