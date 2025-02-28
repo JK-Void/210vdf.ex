@@ -17,14 +17,6 @@
 },
 {
 "trigger":{
-"url-filter":".*"
-},
-"action":{
-"type":"block"
-}
-},
-{
-"trigger":{
 "url-filter":"/arscode-ninja-popups/",
 "resource-type":[
 "fetch",
